@@ -1,0 +1,37 @@
+.square {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    content: "";
+    margin: -10px;
+}
+
+.white_row {
+
+}
+
+.black_row {
+
+}
+
+.black {
+    background-color: saddlebrown;
+}
+
+.white {
+    background-color: navajowhite;
+}
+
+.char {
+    background-color: #353639;
+    color: white;
+    height: 20px;
+    text-align: center;
+}
+
+.num {
+    background-color: #353639;
+    color: white;
+    width: 20px;
+    text-align: center;
+}
