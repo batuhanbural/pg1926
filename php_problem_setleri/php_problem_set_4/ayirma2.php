@@ -58,12 +58,12 @@ if ($para >= 1) {
     $para = intval($tpara);
 }
 
-echo intval($a100) . " adet 1 TL <br>"; //0,50
-echo intval($a50) . " adet 50 Kuruş <br>";   //0,25
-echo intval($a25) . " adet 25 Kuruş <br>";   //0,10
-echo intval($a10) . " adet 10 Kuruş <br>";   //0,05
-echo intval($a5) . " adet 5 Kuruş <br>";     //0,01
-echo intval($a1) . " adet 1 Kuruş <br>";
+echo intval($a100) . " adet 1 TL <br>";     //1
+echo intval($a50) . " adet 50 Kuruş <br>";  //0,50
+echo intval($a25) . " adet 25 Kuruş <br>";  //0,25
+echo intval($a10) . " adet 10 Kuruş <br>";  //0,10
+echo intval($a5) . " adet 5 Kuruş <br>";    //0,05 
+echo intval($a1) . " adet 1 Kuruş <br>";    //0,01
 
 ?>
 
