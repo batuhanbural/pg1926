@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>PHP Parayı Banknotlara Ayırma-2</title>
+    <title>Para Ayırma 2</title>
 </head>
 
 <body>
