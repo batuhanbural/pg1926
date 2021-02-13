@@ -23,13 +23,13 @@ document.addEventListener('DOMContentLoaded', function () {
             create_squares(row, 1)
             var last_div = document.createElement("div")
             last_div.className = "num square"
-            // last_div.innerText = "" + (9 - i)
+            last_div.innerText = "" + (9 - i)
             row.appendChild(last_div)
         } else {
             create_squares(row, 0)
             var last_div = document.createElement("div")
             last_div.className = "num square"
-            // last_div.innerText = "" + (9 - i)
+            last_div.innerText = "" + (9 - i)
             row.appendChild(last_div)
         }
     }
