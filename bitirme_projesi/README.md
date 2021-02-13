@@ -10,7 +10,7 @@ numpy 1.20.0rc1
 
 ## *oheka.py* kullanımı
 
-oheka.py __iyi__ ve __yüzü eşit aydınlatan__ bir ışık altında kullanılmalıdır. Program çalışmaya başladıktan sonra __kişinin kafasını ilk saptadığı anda__ kafanın o anki konumunu kafanın __normal duruşu__ olarak almaktadır. Kişi _kafasını_ *ileri* götürdüğü anda araç *ileri gitmeye*, *geri* götürmeye başladığı anda *geriye*, *sağ gözünü* kapattığında *sağa*, *sol gözünü* kapattığında *sola* gitmektedir.
+oheka.py __iyi__ ve __yüzü eşit aydınlatan__ bir ışık altında kullanılmalıdır. Program çalışmaya başladıktan sonra __kişinin kafasını ilk saptadığı anda__ kafanın o anki konumunu kafanın __normal duruşu__ olarak almaktadır. Kişi _kafasını_ **ileri** götürdüğü anda araç **ileri gitmeye**, **geri** götürmeye başladığı anda **geriye**, **sağ gözünü** kapattığında **sağa**, **sol gözünü** kapattığında **sola** gitmektedir.
 
 
 ![ex2 (3)](https://user-images.githubusercontent.com/60934501/101936564-bed94800-3bf1-11eb-90b7-84e449c20e06.gif)
