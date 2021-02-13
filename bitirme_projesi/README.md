@@ -28,7 +28,8 @@ Bölümlerinde .xml dosyalarının `oheka.py` dosyasının bulunduğu dizin alt�
 
 oheka.py __iyi__ ve __yüzü eşit aydınlatan__ bir ışık altında kullanılmalıdır. Program çalışmaya başladıktan sonra __kişinin kafasını ilk saptadığı anda__ kafanın o anki konumunu kafanın __normal duruşu__ olarak almaktadır. Kişi _kafasını_ **ileri** götürdüğü anda araç **ileri gitmeye**, **geri** götürmeye başladığı anda **geriye**, **sağ gözünü** kapattığında **sağa**, **sol gözünü** kapattığında **sola** gitmektedir.
 
+## OHEKA Galeri
 
-![ex2 (3)](https://user-images.githubusercontent.com/60934501/101936564-bed94800-3bf1-11eb-90b7-84e449c20e06.gif)
+![OHEKA_2](https://user-images.githubusercontent.com/60934501/107847638-4ca5ff00-6dfe-11eb-820c-40ac217d8caf.PNG)
 
 
