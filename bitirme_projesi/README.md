@@ -8,12 +8,21 @@ opencv-python 4.4.0.46
 numpy 1.20.0rc1
 ```
 
+## *oheka_rpi.py* gereksinimleri
+```pip
+opencv-python 4.4.0.46
+numpy 1.20.0rc1
+RPi.GPIO 
+```
+
 ## ✨ Önemli Notlar 
 ```python
 self.face_cascade = cv2.CascadeClassifier("HaarCascades/haarcascade_frontalface_default.xml")
 self.eye_cascade = cv2.CascadeClassifier("HaarCascades/haarcascade_eye.xml")
 ```
-Bölümlerinde .xml dosyalarının `oheka.py` dosyasının bulunduğu dizin altında `HaarCascades` adındaki dizin altına konmalıdır
+Bölümlerinde .xml dosyalarının `oheka.py` dosyasının bulunduğu dizin altında `HaarCascades` adındaki dizin altına konmalıdır.
+
+**oheka_rpi.py** dosyası raspberry pi ile kullanılması için yapılmıştır. Bu dosya ile gerçek bir tekerlekli sandalye gözler ve kafa hareketleri ile hareket ettirilebilmektedir.
 
 ## *oheka.py* kullanımı
 
