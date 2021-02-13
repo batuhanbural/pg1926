@@ -31,5 +31,6 @@ oheka.py __iyi__ ve __yüzü eşit aydınlatan__ bir ışık altında kullanılm
 ## OHEKA Galeri
 
 ![oheka_yeni](https://user-images.githubusercontent.com/60934501/107847919-9bed2f00-6e00-11eb-83b1-06c53382fd26.png)
+![oheka_turntable](https://user-images.githubusercontent.com/60934501/107848175-69443600-6e02-11eb-90bd-be6414172b85.mp4)
 
 
