@@ -15,6 +15,13 @@ oheka.py __iyi__ ve __yüzü eşit aydınlatan__ bir ışık altında kullanılm
 
 ![ex2 (3)](https://user-images.githubusercontent.com/60934501/101936564-bed94800-3bf1-11eb-90b7-84e449c20e06.gif)
 
+### Önemli Notlar 
+```python
+self.face_cascade = cv2.CascadeClassifier("HaarCascades/haarcascade_frontalface_default.xml")
+self.eye_cascade = cv2.CascadeClassifier("HaarCascades/haarcascade_eye.xml")
+```
+Bölümlerinde .xml dosyalarının `oheka.py` dosyasının bulunduğu dizin altında `HaarCascades` adındaki dizin altına konmalıdır.
+
 
 ### Sending messages
 
