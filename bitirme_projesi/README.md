@@ -3,8 +3,10 @@
 > ***OHEKA (Omurilik Hastalarının Engellerini Kaldıran Araç)*** genel anlamda omurilik hastalarının öz güvenini arttırmak, bir şeyleri başarmanın verdiği haz ile hayata daha güçlü bağlanmalarını sağlamak amacıyla tasarlanmış bir nevi tekerlekli sandalyedir. Engelli bireylerin teknolojiden yararlanarak özgürlüklerine kavuşmalarını, onların öz güvenini arttırmayı ve başarmanın verdiği hazzı onlara yaşatmayı istiyoruz. Bu amaç doğrultusunda çalışan ekibimiz, engelli bireylerin (bakıcı gözetimi olmadan) özgürce hareket edebilmesi için bir araç üretmeyi hedeflemektedir. Söz konusu araç, engelli bireyin yüzünü algılayarak algılanan kişinin kafa hareketiyle tekerlekli sandalyenin kontrol edilmesi üzerine tasarlanmaktadır.
 
 ## *oheka.py* gereksinimleri
-> pip install opencv-python==4.4.0.46
-> pip install numpy==1.20.0rc1
+```pip
+opencv-python 4.4.0.46
+numpy 1.20.0rc1
+```
 
 ## *oheka.py* kullanımı
 
